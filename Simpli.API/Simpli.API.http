@@ -1,0 +1,6 @@
+@Simpli.API_HostAddress = http://localhost:5294
+
+GET {{Simpli.API_HostAddress}}/SearchGoogle/
+Accept: application/json
+
+###
