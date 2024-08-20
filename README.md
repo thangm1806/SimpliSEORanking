@@ -1,7 +1,7 @@
 # Solution Overview
 
 ## How to run project
-- Find to the solution folder.
+- Find to the solution folder and open it with Visual Studio (2022 and above).
 - Run project by .net cli: dotnet build , dotnet restore, dotnet run
 - Input search key and url string on swaggerAPI UI such as "e-settlements" and "www.sympli.com.au"
 - Output will be the array of positions which matching with url string that appear on search result (Google,bing)
